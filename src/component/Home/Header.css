@@ -1,0 +1,48 @@
+header {
+  background: url("../../assets/header.jpg") center no-repeat;
+  background-size: cover;
+  width: 100%;
+  max-width: 100%;
+  text-align: left;
+  height: auto;
+  overflow: hidden;
+  font-family: "Labrada";
+  padding: 25px 0px;
+  margin-top: 0px;
+}
+header .row {
+  margin: 50px 0px;
+}
+header h1 {
+  color: #a82d49;
+  font-size: 55px;
+  line-height: 60px;
+  font-family: "Labrada";
+  font-weight: bold;
+  width: 80%;
+}
+header p {
+  color: #a82d49;
+  font-family: "Labrada";
+  margin: 15px 0px;
+}
+header button {
+  width: 150px;
+  height: 50px;
+  background-color: #a82d49;
+  border: 1px solid #a82d49;
+  box-sizing: border-box;
+  text-align: center;
+  color: antiquewhite;
+  margin: 20px 10px 20px 0px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+header button:hover {
+  background-color: transparent;
+  color: #ab3550 !important;
+  transition: 0.2s ease-in-out;
+}
+.iconfonmar {
+  margin-right: 15px;
+}

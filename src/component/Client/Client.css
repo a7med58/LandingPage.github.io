@@ -1,0 +1,28 @@
+.numbers {
+  background-color: #a82d49;
+  padding: 25px 0px;
+  max-width: 100%;
+  height: auto;
+  text-align: center;
+  overflow: hidden;
+  margin-top: 0px;
+}
+.numbers .row {
+  margin: 10px 0px;
+}
+
+h1 {
+  font-size: 30px;
+  font-weight: bold;
+  margin: 10px 0px;
+  color: aliceblue;
+  font-family: "Labrada";
+}
+
+h2 {
+  text-transform: uppercase;
+  color: aliceblue;
+  font-family: "Labrada";
+  font-weight: bold;
+  letter-spacing: 1px;
+}

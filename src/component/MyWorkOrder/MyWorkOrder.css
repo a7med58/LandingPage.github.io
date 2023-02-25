@@ -1,0 +1,83 @@
+.work {
+  background-color: #102054;
+  margin-top: 0px;
+  padding: 25px 0px;
+  overflow: hidden;
+  width: 100%;
+  height: auto;
+}
+
+.work .row:first-child {
+  text-align: center;
+  margin: 25px 0px;
+}
+.work h2 {
+  font-size: 45px;
+  font-weight: bold;
+  width: 100%;
+  margin: 10px 0px;
+  color: white;
+  line-height: 50px;
+  text-align: center;
+}
+.work p {
+  font-size: 16px;
+  line-height: 28px;
+  color: white;
+}
+.work img {
+  max-width: 100%;
+}
+.work .box {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  overflow: hidden;
+  border: 1px solid;
+  box-sizing: border-box;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+.work .box h5 {
+  color: #ab3550;
+  margin: 15px 0px;
+  font-size: 30px;
+  font-weight: bold;
+  width: 100%;
+  max-width: 70%;
+}
+.work .box span {
+  color: #ab3550;
+  display: block;
+  margin: 10px 0px;
+  font-size: 25px;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+.work .box p {
+  color: #ab3550;
+  margin: 10px 0px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.work button {
+  width: 140px;
+  height: 40px;
+  text-align: center;
+  background-color: #a82d49;
+  border: 1px solid #a82d49;
+  box-sizing: border-box;
+  margin: 10px 0px;
+  transition: 0.3s ease-in-out;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 15;
+  font-weight: bold;
+  text-decoration: none !important;
+  letter-spacing: 1px;
+}
+
+.work button:hover {
+  background-color: transparent;
+  color: #a82d49;
+}
