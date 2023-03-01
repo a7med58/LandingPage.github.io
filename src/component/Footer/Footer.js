@@ -15,35 +15,35 @@ const Footer = () => {
               href="https://www.facebook.com/theeagle58"
               role="button"
             >
-              <FacebookIcon color="success">FB</FacebookIcon>
+              <FacebookIcon sx={{ color: "#102054" }}></FacebookIcon>
             </a>
             <a
               className="btn btn-outline-light btn-floating m-1"
               href="https://twitter.com/Mamo23549442"
               role="button"
             >
-              <TwitterIcon color="success"></TwitterIcon>
+              <TwitterIcon sx={{ color: "#102054" }}></TwitterIcon>
             </a>
             <a
               className="btn btn-outline-light btn-floating m-1"
               href="https://github.com/a7med58"
               role="button"
             >
-              <GitHubIcon color="success"></GitHubIcon>
+              <GitHubIcon sx={{ color: "#102054" }}></GitHubIcon>
             </a>
             <a
               className="btn btn-outline-light btn-floating m-1"
               href="https://www.instagram.com/ahmed_ragab_58/"
               role="button"
             >
-              <InstagramIcon color="success"></InstagramIcon>
+              <InstagramIcon sx={{ color: "#102054" }}></InstagramIcon>
             </a>
             <a
               className="btn btn-outline-light btn-floating m-1"
               href="https://twitter.com/Mamo23549442"
               role="button"
             >
-              <TwitterIcon color="success"></TwitterIcon>
+              <TwitterIcon sx={{ color: "#102054" }}></TwitterIcon>
             </a>
           </section>
 
