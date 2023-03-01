@@ -41,24 +41,27 @@
 .work .box h5 {
   color: #ab3550;
   margin: 15px 0px;
-  font-size: 30px;
+  font-size: 20px;
   font-weight: bold;
   width: 100%;
-  max-width: 70%;
+  max-width: 100%;
+  text-align: center;
 }
 .work .box span {
   color: #ab3550;
   display: block;
   margin: 10px 0px;
-  font-size: 25px;
+  font-size: 15px;
   font-weight: bold;
   text-transform: capitalize;
+  text-align: center;
 }
 .work .box p {
   color: #ab3550;
   margin: 10px 0px;
-  font-size: 20px;
+  font-size: 15px;
   font-weight: bold;
+  text-align: center;
 }
 .work button {
   width: 140px;
@@ -67,7 +70,7 @@
   background-color: #a82d49;
   border: 1px solid #a82d49;
   box-sizing: border-box;
-  margin: 10px 0px;
+  margin: 10px 120px 0px;
   transition: 0.3s ease-in-out;
   color: #fff;
   text-transform: uppercase;
