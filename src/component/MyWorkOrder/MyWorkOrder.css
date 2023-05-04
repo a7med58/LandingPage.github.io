@@ -11,6 +11,7 @@
   text-align: center;
   margin: 25px 0px;
 }
+
 .work h2 {
   font-size: 45px;
   font-weight: bold;
@@ -20,14 +21,17 @@
   line-height: 50px;
   text-align: center;
 }
+
 .work p {
   font-size: 16px;
   line-height: 28px;
   color: white;
 }
+
 .work img {
   max-width: 100%;
 }
+
 .work .box {
   width: 100%;
   max-width: 100%;
@@ -37,7 +41,12 @@
   box-sizing: border-box;
   margin-top: 10px;
   border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
+
 .work .box h5 {
   color: #ecf0f1FF;
   margin: 15px 0px;
@@ -47,6 +56,7 @@
   max-width: 100%;
   text-align: center;
 }
+
 .work .box span {
   color: #ecf0f1FF;
   display: block;
@@ -56,6 +66,7 @@
   text-transform: capitalize;
   text-align: center;
 }
+
 .work .box p {
   color: #ecf0f1FF;
   margin: 10px 0px;
@@ -63,6 +74,7 @@
   font-weight: bold;
   text-align: center;
 }
+
 .work button {
   width: 140px;
   height: 40px;
@@ -70,7 +82,6 @@
   background-color: #a82d49;
   border: 1px solid #a82d49;
   box-sizing: border-box;
-  margin: 10px 120px 0px;
   transition: 0.3s ease-in-out;
   color: #ecf0f1FF;
   text-transform: uppercase;
@@ -78,6 +89,7 @@
   font-weight: bold;
   text-decoration: none !important;
   letter-spacing: 1px;
+
 }
 
 .work button:hover {

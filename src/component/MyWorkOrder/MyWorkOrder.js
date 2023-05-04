@@ -9,8 +9,9 @@ const MyWorkOrder = () => {
           <h5>{item.title}</h5>
           <span>{item.time}</span>
           <p>{item.price}</p>
+                  <button> Order Now</button>
+
         </div>
-        <button> Order Now</button>
       </div>
     );
   });
